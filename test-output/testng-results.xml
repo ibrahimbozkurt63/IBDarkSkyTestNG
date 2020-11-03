@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3021" started-at="2020-11-01T09:50:07 EST" finished-at="2020-11-01T09:50:10 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3021" started-at="2020-11-01T09:50:07 EST" finished-at="2020-11-01T09:50:10 EST">
+      <class name="com.qa.DarkSky.test.MainPageTest">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.qa.DarkSky.test.MainPageTest@614ddd49]" name="setUP" is-config="true" duration-ms="2637" started-at="2020-11-01T09:50:07 EST" finished-at="2020-11-01T09:50:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:1, instance:com.qa.DarkSky.test.MainPageTest@614ddd49]" name="verifyHomePageTitle" duration-ms="9" started-at="2020-11-01T09:50:10 EST" description="Getting Title from DarkSky" finished-at="2020-11-01T09:50:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="verifyUrl()[pri:2, instance:com.qa.DarkSky.test.MainPageTest@614ddd49]" name="verifyUrl" duration-ms="5" started-at="2020-11-01T09:50:10 EST" description="Getting Url from DarkSky" finished-at="2020-11-01T09:50:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUrl -->
+        <test-method status="PASS" signature="getLow()[pri:3, instance:com.qa.DarkSky.test.MainPageTest@614ddd49]" name="getLow" duration-ms="111" started-at="2020-11-01T09:50:10 EST" description="Getting the low temperature range" finished-at="2020-11-01T09:50:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLow -->
+        <test-method status="PASS" signature="getHigh()[pri:4, instance:com.qa.DarkSky.test.MainPageTest@614ddd49]" name="getHigh" duration-ms="86" started-at="2020-11-01T09:50:10 EST" description="Getting the high temperature range" finished-at="2020-11-01T09:50:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHigh -->
+        <test-method status="PASS" signature="getHeader()[pri:5, instance:com.qa.DarkSky.test.MainPageTest@614ddd49]" name="getHeader" duration-ms="148" started-at="2020-11-01T09:50:10 EST" description="Getting the page header" finished-at="2020-11-01T09:50:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHeader -->
+      </class> <!-- com.qa.DarkSky.test.MainPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
